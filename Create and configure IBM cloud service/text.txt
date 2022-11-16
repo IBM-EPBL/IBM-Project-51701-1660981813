@@ -1,0 +1,5 @@
+var d=new Date();
+var time=d.getTime()
+d=new Date
+time2=d.getTime()
+if (time<=time2)
